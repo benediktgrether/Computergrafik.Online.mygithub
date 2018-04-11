@@ -21,3 +21,12 @@
 > Grundlegen Modelierungsmethoden. Boolische Operationen, Grundlegene Modellierung.
 > Was sind die Grundlagen ? 
 > CG - Vorlesung - Grundlagen Modellierung
+
+# Bis zum 18.4.2018
+
+- Recherche abschließen
+- Liste für die Lernziele
+- - Was soll er daraus lernen 
+- - Er kennt
+- - Er weiß
+- - Er kann
