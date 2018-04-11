@@ -47,7 +47,7 @@ $B(Cb,Cs) = Cs$
 >
 >The resultant color is always at least as dark as either the source or destination color. Multiplying any color with black results in black. Multiplying any color with white preserves the original color. 
  
-$`B(Cb,Cs) = Cb*Cs`$
+$B(Cb,Cs) = Cb*Cs$
 
 ### Screen blend mode
 >Multiplies the complements of the backdrop and source color values, then complements the result.
