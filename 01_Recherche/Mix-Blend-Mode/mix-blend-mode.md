@@ -49,6 +49,7 @@ $B(Cb,Cs) = Cs$
  
 $B(Cb,Cs) = Cb*Cs$
 
+<!-- Latex Code | Link zum Editor : http://latex.codecogs.com/eqneditor/editor.php -->
 ![equation](http://latex.codecogs.com/gif.latex?B%28Cb%2C%20Cs%29%20%3D%20Cb*Cs)
 
 ### Screen blend mode
