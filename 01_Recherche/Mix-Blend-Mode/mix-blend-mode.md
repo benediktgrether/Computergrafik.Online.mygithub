@@ -49,6 +49,8 @@ $B(Cb,Cs) = Cs$
  
 $B(Cb,Cs) = Cb*Cs$
 
+![equation](http://latex.codecogs.com/gif.latex?B%28Cb%2C%20Cs%29%20%3D%20Cb*Cs)
+
 ### Screen blend mode
 >Multiplies the complements of the backdrop and source color values, then complements the result.
 >
