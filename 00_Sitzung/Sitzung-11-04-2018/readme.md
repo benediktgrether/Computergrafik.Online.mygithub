@@ -26,7 +26,7 @@
 
 - Recherche abschließen
 - Liste für die Lernziele
-- - Was soll er daraus lernen 
-- - Er kennt
-- - Er weiß
-- - Er kann
+    - Was soll er daraus lernen 
+    - Er kennt
+    - Er weiß
+    - Er kann
