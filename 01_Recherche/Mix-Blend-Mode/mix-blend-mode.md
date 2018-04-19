@@ -215,3 +215,36 @@ https://www.w3.org/TR/compositing/#blendingnonseparable
 ### Non-separable blend modes
 
 
+
+
+
+- Normal blend mode
+- Dissolve
+- Multiply and Screen
+  - Multiply
+  - Screen
+  - Overlay
+  - Hard Light
+  - Soft Light
+- Doge and Burn
+- 1. Dodge Modes:
+  - Screen
+  - Color Dodge
+  - Linear Dodge
+  - Divide
+- 2. Burn modes
+  - Multiply
+  - Color Burn
+  - Linear Burn
+- 3. Vivid Light
+- 4. Linear Light
+- 5. Subtract
+- Simple arithmetic blend modes
+  - Divide
+  - Addition
+  - Subtract
+  - Difference
+  - Darken Only
+  - Lighten Only
+- Boolean arithmetic blend modes
+- Hue, saturation and luminosity
