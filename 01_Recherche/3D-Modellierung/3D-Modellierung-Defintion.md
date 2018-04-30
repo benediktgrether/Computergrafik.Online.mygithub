@@ -181,6 +181,10 @@ Die drei Einstellungen
 
 
 [Seite 52 Catmull - Clark - Algo Berechnung](http://graphics.stanford.edu/courses/cs468-10-fall/LectureSlides/10_Subdivision.pdf)
+[Catmull - Clark - Algo](http://www.algosome.com/articles/catmull-clark-subdivision-algorithm.html)
+
+[Catmull - Clark - Algo](https://www.cise.ufl.edu/research/SurfLab/papers/00pccm.pdf)
+
 - [ ] Craft - nachschauen wegen dem Catmull-Clark-Algo. 
 
 <!-- https://de.wikibooks.org/wiki/Blender_Dokumentation:_Subdivision_Surfaces -->
