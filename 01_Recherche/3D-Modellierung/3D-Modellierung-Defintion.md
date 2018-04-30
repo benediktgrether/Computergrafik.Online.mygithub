@@ -180,7 +180,7 @@ Die drei Einstellungen
 > - Der Lernende soll den Subdivision Surface Modifier kennen lernen und den Bezug zu dem Catmull-Clark-Algorithmus verstehen
 
 
-[Seite 56 Catmull - Clark - Algo Berechnung](http://graphics.stanford.edu/courses/cs468-10-fall/LectureSlides/10_Subdivision.pdf)
+[Seite 52 Catmull - Clark - Algo Berechnung](http://graphics.stanford.edu/courses/cs468-10-fall/LectureSlides/10_Subdivision.pdf)
 - [ ] Craft - nachschauen wegen dem Catmull-Clark-Algo. 
 
 <!-- https://de.wikibooks.org/wiki/Blender_Dokumentation:_Subdivision_Surfaces -->
