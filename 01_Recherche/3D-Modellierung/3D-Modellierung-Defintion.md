@@ -4,17 +4,17 @@
 
 ### Primitive Formen 
 
-> - Der Lernende soll verstehen was Primitive Formen sind, und Beispiele nennen können wo diese Formen eingesetzt werden.
+> - Der Lernende soll verstehen was Grundformen sind, und Beispiele nennen können wo diese Formen eingesetzt werden.
 
 
-Primitive Formen in der 2D - Computergrafik
+Grundformen  in der 2D - Computergrafik
 - Punkte
 - Strecken
 - Polygone 
 - Kreise 
 - Ellipsen 
 
-Primitive Formen in der 3D - Computergrafik
+Grundformen  in der 3D - Computergrafik
 - Kugel
 - Würfel 
 - Zylinder 
