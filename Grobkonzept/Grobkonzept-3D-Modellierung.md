@@ -44,7 +44,8 @@ Oft werden diese Grundformen zum Beginn eines Projektes benützt - vorallem in d
 Um das Objekt den Bedürfnisse anzupassen, könnte man diese dann durch Extrudieren in die gewünschten Formen bringen, oder mittels Modiefier / Operationen verändern. (Kapitel Modifier / Operationen ).
 Es besteht auch die Möglichkeit bei diesen Grundformen, diese miteinander zu Verbinden und dadurch auch komplexe 3D Grafiken bauen.
 
-> *Screens*
+> ## Screen Grundformen
+> *Page ist interaktiv*
 >
 > Die 2D und 3D Objekte werden vorgestellt
 > Kurzes Beispiel gezeigt für die 2D Computergrafik erstellung eines Objektes.
@@ -55,7 +56,9 @@ Es besteht auch die Möglichkeit bei diesen Grundformen, diese miteinander zu Ve
 > *Screens*
 > Beschreibungstext der einzelne Elemente müssen dazu 
 > 2-D und 3-D Objekte
+>
 
+***
 
 ## Polygone
 
@@ -63,6 +66,7 @@ Bei einem Polygon sind benachbarte Punkte mit Linien verbunden und bilden die Ka
 Im zweidimensionalen, kartesischen Koordinaten System werden die Eckpunkte der Polygone durch die Zweikoordinaten in x - y- Achsen und der Verbindungslinie definiert. Im dreidimensionalen Raum zusätzlich noch durch den z - wert.
 
 Ein Polygon bildet immer eine geschlossene Fläche, die in einer Ebene liegt. Bei gekrümmten Körpern wird die Fläche durch mehrere kleine Polygonen angenähert oder durch gebogene Polygone gebildet.
+
 [Link](# Screen Polygone)
 
 Polygone mit den wenigstens Punkten und Kantelinien ist das Dreieck. 
@@ -71,13 +75,36 @@ Werden mehrere Polygone miteinander verbunden, dann muss mindestens eine Kantenl
 Die häufigsten Polygonnetze sind dabei
 - Dreiecksnetz
 - Vierecksnetz
+
 [Link](# Screen Polygone)
 
 ### High und Low Poly Modelle
 
+Der Unterschied zwischen High und Low Poly Modellen kann man ganz einfach über deren Namen weitergeben. 
+
+| High Poly | Low Poly |
+| ------------- | ------------- |
+| Enthält mehr Polygone um hochauflösende Resultate zu bekommen  | Enthält weniger Polygone um schnelle Resultate zu erhalten  |
+|   |   |
+
+#### Anwendungsbeispiele
+
+##### High Poly 
+- Fotorealistische 3D Renderings (Bilder des Modells für Filme)
+- Detailauschnitte der Renderings, sogenannte "zoom-ins"
+- 3D Animationen mit zoom-in Effekt
+
+##### Low Poly
+- 3D Modelle die in Echtzeit bewegt werden müssen
+    - Produktkonfiguratoren
+- Augmented Reality / Virtual Reality
+- 3D Character und Umgebung in 3D Spielen
+
+
 
 > ## Screen Polygone
-> *Screen* 
+> *Page ist Interaktiv* 
+>
 >
 > Polygon aufzeigen mit Eckpunkt -> das dann mit einer Linie verbunden wird, und dadraus dann ein Polygon Netz entsteht.
 >
@@ -88,8 +115,20 @@ Die häufigsten Polygonnetze sind dabei
 > ### High und Low Poly Modelle
 >
 > - User kann Polygon Anzahl verringern und das Objekt zeigt es in echtzeit an wie Polygone im Polygonnetz hinzukommen oder entfernt werden.
+> 
+> Allgemeines Aufzeigen von 3D Objekten - High and Low Poly
+
+***
 
 
+## Edge - Flow
+
+### Topologie
+
+Bei der Topologie dreht es sich um die Verhältnise zwischen Punkten, Kanten und Flächen. 
+Das bedeutet, welcher Eckpunkt mit welchem anderen eine Kante bildet und welche Kante mit einer anderen Kante eine Fläche bildet. 
+- siehe Polygone
+Es können grundsätzlich Flächen (Polygonen) aus beliebigen Eckpunkten und Kanten bestehen. Es ist aber zum Vorteil beim Modellieren nur Vierecke (Quads) zu verwenden.
 
 
 
