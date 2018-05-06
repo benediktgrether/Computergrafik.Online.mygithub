@@ -56,7 +56,7 @@ Es besteht auch die Möglichkeit bei diesen Grundformen, diese miteinander zu Ve
 > *Screens*
 > Beschreibungstext der einzelne Elemente müssen dazu 
 > 2-D und 3-D Objekte
->
+
 
 ***
 
@@ -119,7 +119,6 @@ Der Unterschied zwischen High und Low Poly Modellen kann man ganz einfach über 
 
 ***
 
-
 ## Edge - Flow
 
 ### Topologie
@@ -129,8 +128,37 @@ Das bedeutet, welcher Eckpunkt mit welchem anderen eine Kante bildet und welche 
 - siehe Polygone
 Es können grundsätzlich Flächen (Polygonen) aus beliebigen Eckpunkten und Kanten bestehen. Es ist aber zum Vorteil beim Modellieren nur Vierecke (Quads) zu verwenden.
 
+### Edge - Flow 
 
+Beim Edge - Flow werden in der Regel Formen nachgebaut die Organischen Ursprung haben wie z.B Gesichter.
+Um dabei eine bessere Detailtreue zu bekommen, wird hierbei (und bei vielen verschiedenen weiteren Modeltechniken) ein Hintergrundbild gelegt. Dabei möchte man soweit wie es möglich ist die Exakte Form nachmodellieren.
+> Speziel für Organische Lebewesen wird noch weiter versucht die Orginalen Muskelpartien nachzubilden, falls später dieses Objekt animiert wird und diese Anatomisch richtig bewegt werden
+Die Vorgehensweiße bei der Edge - Flow Modelling Technik besteht daraus , Bereiche zu Unterteilen.
+Dabei hängt dies von verschiedenen Faktoren ab.
+- Optischer Fluss der Struktur 
+- Gewünschte Polygonanzahl
+- Animationseigenschaften des Modells
 
+Danach fängt man an einzelne Bänder anzulegen, um die einzelnen definierten Geometrien nachzubauen.
+Danach verbindet man die noch offenen Stellen mit den Verbundenen Bändern.
 
+> ## Screen Edge - Flow
+> *Page ist nicht Interaktiv* 
+>
+> Topologien aufzeigen und nochmal einen vergleich zu Polygonen ziehen
+> Edge - Flow zeigen.
+> - Elemente unterteilen
+> - Bänder anlegen 
+> - Verbinden
+> - Endergebnis
 
+***
 
+## Subdivision Surface
+
+Subdivison Surface 
+http://www.holmes3d.net/graphics/subdivision/
+
+***
+
+# Clay Modelling und Sculpting
