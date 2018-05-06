@@ -85,7 +85,6 @@ Der Unterschied zwischen High und Low Poly Modellen kann man ganz einfach über 
 | High Poly | Low Poly |
 | ------------- | ------------- |
 | Enthält mehr Polygone um hochauflösende Resultate zu bekommen  | Enthält weniger Polygone um schnelle Resultate zu erhalten  |
-|   |   |
 
 #### Anwendungsbeispiele
 
