@@ -97,6 +97,5 @@ Dabei verändert sich das Aussehen des Bildes und es können spezielle Effekte e
 >
 > Verschiedene Blend-Modes zur verfügungstellen und auch überlagern lassen
 > 
->   
 
 ***
