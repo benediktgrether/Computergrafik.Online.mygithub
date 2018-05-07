@@ -111,6 +111,7 @@ Objekte mit Subdivison Surfaces besitzen ein organisches Aussehen.
 
 Trotzdem kann man bei der Benutzung des Subdivison Surfaces nachträglich wieder harte Kanten erstellt werden.
 (Kapitel Modifier).
+http://deacademic.com/dic.nsf/dewiki/1343659
 
 <hr>
 

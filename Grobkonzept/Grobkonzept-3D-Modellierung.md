@@ -156,6 +156,42 @@ Danach verbindet man die noch offenen Stellen mit den Verbundenen Bändern.
 
 ## Subdivision Surface
 
+Bedeutung 
+- Subdivision Surface = Unterteilungsflächen
+- Limes = Grenzwerte 
+
+Bei der Verwendung des Subdivision Surface wird durch den Computer eine Berechnung in verschiedenen Stufen durchgeführt, die eine Annäherung an ein grobes Mesh erledigt. -> Limes (Grenzwert)
+
+<!-- Dabei liegt ein glattes Polygone Grundnetz zur Verfügung und wird durch mehrfache Abstufung in neue Teilbereiche eingeteilt. -->
+
+Dabei gibt es zwei Vereinfachungsschematas die in Kategorieren eingeordnet werden.
+
+- Approximierende 
+    - Die Limesflächen kann innerhalb oder außerhalb des Ausgangsgitters zu liegen kommen. 
+    - Bei jedem Rekursionsschritt liegen die neu Erzeugten Punkte nie auf den Limesflächen.
+
+- Interpolierende
+    - Werden benützt wenn die Limesfläche die Punkte des Ausgangsgitter interpolieren soll.
+    - Die Punkte des Ausgangsgitters und die durch jeden Rekursionschritt neu erzeugten Punkte immer auf den Limesflächen liegen.
+
+| Approximierende | Interpolierende |
+| ------------- | ------------- |
+| Catmull-Clark  | Butterfly  |
+| Doo–Sabin     |  Kobbelt |
+| Loop  |       |
+| Mid-Edge  |       |
+| v3        |       |
+
+Ein weiteres Unterscheidungskriterium, ist die Kategorisierung in Schemata, die nur auf Gittern aus Polygone mit bestimmter Punktanzahl bestehend. Einige solcher Schemata benötigen beispielweise ein Ausgangsgitter, das nur aus Dreiecken oder Vierecken besteht.
+
+> ## Subdivision Surface
+> *Page ist Interaktiv* 
+>
+> Würfel nehmen -> Subdivision Surface drüber legen und Abstufungen durchführen lassen
+> Andere Modifiere ? 
+
+***
+
 Subdivison Surface 
 http://www.holmes3d.net/graphics/subdivision/
 
