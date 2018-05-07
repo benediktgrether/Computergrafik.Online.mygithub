@@ -161,6 +161,7 @@ Bedeutung
 - Limes = Grenzwerte 
 
 Bei der Verwendung des Subdivision Surface wird durch den Computer eine Berechnung in verschiedenen Stufen durchgeführt, die eine Annäherung an ein grobes Mesh erledigt. -> Limes (Grenzwert)
+Mit dem Subdivision Surface soll das Objekt eine Runde/Organische Struktur bekommen, aber weiterhin auch die Möglichkeit bieten das die Struktur weiterhin auch noch harte Kanten besitzt.
 
 <!-- Dabei liegt ein glattes Polygone Grundnetz zur Verfügung und wird durch mehrfache Abstufung in neue Teilbereiche eingeteilt. -->
 
@@ -184,18 +185,24 @@ Dabei gibt es zwei Vereinfachungsschematas die in Kategorieren eingeordnet werde
 
 Ein weiteres Unterscheidungskriterium, ist die Kategorisierung in Schemata, die nur auf Gittern aus Polygone mit bestimmter Punktanzahl bestehend. Einige solcher Schemata benötigen beispielweise ein Ausgangsgitter, das nur aus Dreiecken oder Vierecken besteht.
 
+
+<!-- Subdivison Surface 
+http://www.holmes3d.net/graphics/subdivision/ -->
+
 > ## Subdivision Surface
 > *Page ist Interaktiv* 
 >
 > Würfel nehmen
+>
 > Subdivision Surface drüber legen und Abstufungen durchführen lassen
+>
 > Andere Modifiere ? 
+>
+> Harte Kanten weiterhin erzeugen.
+>
+> Umsetzung ? 
 
 ***
 
-Subdivison Surface 
-http://www.holmes3d.net/graphics/subdivision/
-
-***
 
 # Clay Modelling und Sculpting
