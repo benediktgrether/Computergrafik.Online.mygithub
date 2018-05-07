@@ -187,7 +187,8 @@ Ein weiteres Unterscheidungskriterium, ist die Kategorisierung in Schemata, die 
 > ## Subdivision Surface
 > *Page ist Interaktiv* 
 >
-> Würfel nehmen -> Subdivision Surface drüber legen und Abstufungen durchführen lassen
+> Würfel nehmen
+>Subdivision Surface drüber legen und Abstufungen durchführen lassen
 > Andere Modifiere ? 
 
 ***
