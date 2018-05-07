@@ -60,6 +60,18 @@ Es besteht auch die Möglichkeit bei diesen Grundformen, diese miteinander zu Ve
 > Beschreibungstext der einzelne Elemente müssen dazu 
 > 2-D und 3-D Objekte
 
+##### Grundform iPhone
+![grundform ipad](/Grobkonzept/Wireframes/Grundformen/grundformen-iphone.png)
+
+***
+
+##### Grundform iPad
+![grundform ipad](/Grobkonzept/Wireframes/Grundformen/grundformen-ipad.png)
+
+***
+
+##### Grundform Desktop width 1440px
+![grundform desktop](/Grobkonzept/Wireframes/Grundformen/grundformen-desktop-w-1440px.png)
 
 ***
 
