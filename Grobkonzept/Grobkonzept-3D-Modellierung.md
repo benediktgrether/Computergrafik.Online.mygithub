@@ -54,7 +54,7 @@ Es besteht auch die Möglichkeit bei diesen Grundformen, diese miteinander zu Ve
 > Kurzes Beispiel gezeigt für die 2D Computergrafik erstellung eines Objektes.
 > Interaktion mit den 3D Objekten
 > - Verschiedene 3D Objekte können ausgewählt werden.
-> - Die Objekte können übereinander gestappelt werden - Vl eine kleine Szenerie nachbauen ? 
+> - Die Objekte können übereinander gestapelt werden - Vl eine kleine Szenerie nachbauen ? 
 > 
 > *Screens*
 > Beschreibungstext der einzelne Elemente müssen dazu 
