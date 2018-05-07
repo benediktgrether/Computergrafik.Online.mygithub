@@ -9,6 +9,9 @@ SOSE 18 </br>
 
 ***
 
+
+# 1.) 3D Modellingstechnik
+
 ## Grundformen
 
 Die Computergrafik setzt sich am Anfang in den meisten Fällen aus Grund Formen zusammen.
@@ -205,4 +208,106 @@ http://www.holmes3d.net/graphics/subdivision/ -->
 ***
 
 
-# Clay Modelling und Sculpting
+## Clay Modelling und Sculpting
+
+
+### Clay Modelling
+
+Die Idee hinter Clay-Modelling ist es komplizierte 3D-Formen oder organisch aussehende Objekte wie Pflanzen, Tiere , Aliens mit dieser Technik herzustellen.
+Clay bedeutet übersetzt *Knete*.
+Man nimmt also eine Grundform, z.B einen Würfel und fängt an seine Flächen zu Unterteilen und die Unterteilten Flächen zu Extrudieren. Dabei werden oft die Extrudierten Flächen immer weiter Unterteilt, bis zum gewünschten Ergebnis.
+
+## Sculpting
+
+Beim Sculpting nimmt man jetzt z.B das Clay-Modelling und arbeitet mit dem Sculpting Werkzeug nun gewünschte Strukturen rein.
+
+- Falten 
+- Narben  usw.
+
+> ## Clay Modelling und Sculpting
+> *Page ist nicht Interaktiv* 
+>
+> ### Clay Modelling
+> Würfel nehmen
+>
+> Flächen Unterteilen
+>
+> Extrudieren
+>
+> weitere Flächen Unterteilen
+>
+> Gewünschtes Ergebniss da ist.
+>
+> ## Sculpting
+>
+> Auf Basis des Clay Modelling Strukturen einarbeiten.
+
+
+***
+
+# 2.) Modifier und Operationen
+
+Je nach Programm heißen die Funktionen die hier beschrieben teilweise anders.
+
+## Defintion von Modifier und Operationen
+
+Modifier / Operationen sind Funktionen die in Unterschiedlicher Rheinfolge auf das zu Modullierende Objekt angewendet werden können. - Die Reihenfolge auf einem Modifikationsstabel hat trotzdem einen Einfluss auf das Aussehen des 3D Objektes.
+
+Der Vorteil von Modifieren besteht auf ihrer Arbeitsweise.
+- Arbeiten Interaktiv
+- nicht destruktiv
+
+=> Solange man die Modifier / Operationen nicht anwendet kann man diese immer noch verändern.
+
+> ## Defintion von Modifier und Operationen
+> *Page ist Interaktiv* 
+>
+> Modifier zeigen und den Modifierstabel verändern lassen.
+>
+
+***
+
+## Mirror - Modifier / Operation
+
+Für Spiegelsymmetrische Objekte ist es zum Vorteil, nur eine Seite des 3D Objektes zu realisieren.
+Danach benützt man den Mirror - Modifier / Operation um es auf die andere Seite zu spiegeln.
+Der Mirror Modifier / Operation kann dabei grundsätzlich auf die x-y-z - Achse angewendet werden. 
+
+Desweiteren hat der Mirror Modifiere / Operation noch weiter Einstellungsmöglichkeiten. 
+- Objekt zusammengefügt werden soll.
+
+- Only Blender?
+    - Clipping
+    - Vertex Group 
+
+Falls die Spiegelseite noch unterschiedlichere Elemente hat die bearbeitet werden müssen, könnte man hierfür dann den Modifier anwenden.
+
+> ## Mirror - Modifier / Operation
+> *Page ist Interaktiv* 
+>
+> Objekt in x-y-z richtung Spiegeln lassen.
+>
+> Objekt Mergen , Clipping und aufzeigen der Vertex Group
+
+***
+
+## Booleasch Modifier / Operation
+
+Die Boolschean Modifier / Operationen helfen dann weiter, wenn das Mesh zu umständlich zu Modellieren ist, aber sich leicht aus der Kombination einfacher Grundformen zusammensetzen lässt.
+Die Operationen wirken sich dabei immer auf zwei geschlossene Objekte aus.
+
+Bei dem Boolschean Modifier / Operation gibt es drei Einstellungen.
+
+- Intersect: Bildet die Schnittmenge zweier Objekte.
+- Union: Bildet die Vereinigung zweier Objekte.
+- Difference: Ein Objekt wird vom anderen Objekt abgezogen.
+
+> ## Mirror - Modifier / Operation
+> *Page ist Interaktiv* 
+>
+> Die 3 Booleaschen Modifier durchführen lassen und verschiedenen Schnittmengen Bilden lassen
+>
+
+***
+
+
