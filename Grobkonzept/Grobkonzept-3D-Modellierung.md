@@ -310,4 +310,18 @@ Bei dem Boolschean Modifier / Operation gibt es drei Einstellungen.
 
 ***
 
+## Subdivision Surface - Catmull-Clark-Algorithmus
 
+Siehe oben.
+
+- Berechnung des Catmull-Clark-Algorithmus
+
+Wenn ich noch was dazu finde, die anderen Schemata noch ausarbeiten.
+
+> ## Subdivision Surface - Catmull-Clark-Algorithmus
+> *Page ist Interaktiv* 
+>
+> Berechnung auflisten und anhand eines Objektes, die verschiedene Schematas ausführbar machen.
+>
+
+***
